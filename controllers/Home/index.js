@@ -1,6 +1,6 @@
-const heroSlider = require('./heroSlider.controller');
+const carousel = require('./carousel.controller');
 
 
 module.exports = {
-    heroSlider
+    carousel
 }

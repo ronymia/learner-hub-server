@@ -1,5 +1,5 @@
-const heroSlider = require("./heroSlider.model");
+const carousel = require("./carousel.model");
 
 module.exports = {
-    heroSlider
+    carousel
 }
